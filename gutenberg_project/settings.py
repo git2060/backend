@@ -137,4 +137,4 @@ REST_FRAMEWORK={
         "PAGE_SIZE":25
 }
 
-ALLOWED_HOSTS = ["35.160.120.126", "https://backend-1-kv62.onrender.com"]
+ALLOWED_HOSTS = ["*"]
