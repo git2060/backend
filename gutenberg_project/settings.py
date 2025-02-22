@@ -85,7 +85,7 @@ DATABASES = {
         'NAME': 'gutenberg_books',
         'USER':'root',
         'PASSWORD':'admin',
-        'HOST':'0.0.0.0',
+        'HOST':'35.160.120.126',
         'PORT':3306
     }
 }
